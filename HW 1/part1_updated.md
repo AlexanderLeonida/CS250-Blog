@@ -48,3 +48,22 @@ The sauce should be on the thicker side because we'll be adding our pasta noodle
 ## Putting it all Together
 
 Now that we have both our pasta and the sauce (hopefully correctly timed), it's now time to begin adding both togther in order to create our final dish. 
+Simply pull out the drained noodles from your water with a spider, and add it to the sauce. The thick sauce should thin from the excess water from the noodles. This emulsification process is important. 
+
+Emulsifying in this case, is the process of rapdily mixing the water from the pasta into the thick sauce that we created before. 
+
+Overcrowding your pan will make this process a lot more difficult than it needs to be. 
+
+Mix the noodels in the sauce until well coated and if you leave it on a medium - low heat for only a little while longer, your dish is ready to be plated and eaten. 
+
+If the heat is too high, this will highly increase the chances of breaking your sauce. Leave the pan on a relatively low heat. Continuously move the pasta around in order to emulsify the butter cheese mixture and the water. A great example of a proper emulsification can be found [here](https://www.youtube.com/watch?v=v50OQFhc16U). 
+
+**NOTE** if the sauce is too thick, add water. If the pasta is thin, leave it on the heat to reduce. 
+
+**IF** you continuously add water to the sauce, althoguh you are thinning it out, you are also simultaneously watering the flavors of your sauce. This is not good, but will only take serious effect further down the road.
+
+## Eating
+
+Now, eat. The reason that I chose pappardelle for this recipie as opposed to fetuccine is because I enjoy unraveling the large noodles and eating them almost one by one, covered in sauce for this dish as opposed to maybe eating parts of some noodles, and parts of others in a single bite. 
+
+I usually pair my dish with a glass of water, because I know nothing about wines yet. 
