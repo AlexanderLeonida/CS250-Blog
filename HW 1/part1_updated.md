@@ -22,8 +22,29 @@ Once I have my very long pasta sheet, I lightly flour the counter top that I'll 
 
 If this made no sense, see the video linked above. 
 
+## Multitasking
+
+It is at this point where you'll need to do multiple things at once. The only two things that need to be kept track of are 
+
+1. The pasta
+2. The sace
+
+Fresh pasta cooks extraordinarily fast, no more than two minutes (especially if it's being finished in sauce).
+
+Knowing this, it might be ideal to start the sauce (maybe takes 5 minutes), then throw in the pasta, then finish the sauce, then take out the pasta. This is unfortunately concurrent programming, there's only one cpu, only one you. 
+
+Carefully place the pasta noodles into a pot of softly boiling salted water until either a minute and a half, or until they begin floating. Overcooked pasta will become rubbery and elastic as opposed to slightly chewy, and will lose it's ability to grip onto the sauce it's placed in, regardless of how emulsified it may be.
+
 ## Making the Sauce
 
+Now that I am making my pasta, the most time consuming part of this process is done. In order to make my sauce, I will start with either butter, or rendered out leftover bacon / guanciale / pancetta fat, and add in some minced garlic to a medium heat skillet or frying pan. I then salt my ingredients in the pan, because although the cheese at the end adds a lot of salt, I find it to usually be not enough for me. Then, I usually add in cracked black (or white) pepper to bloom that spice immediately. 
 
+I quickly afterwards add in heavy cream and let that come to a light boil in order to reduce itself. By stirring occasionally, you can knock it off of the boil if needed. 
+
+I then add nutmeg, and begin slowly adding in my parmigiano reggiano to the sauce. Stirring and adding in small portions at a time prevents cheese clumps forming within the sauce.
+
+The sauce should be on the thicker side because we'll be adding our pasta noodles to it later (which will have some water to thin the overall mixture).
 
 ## Putting it all Together
+
+Now that we have both our pasta and the sauce (hopefully correctly timed), it's now time to begin adding both togther in order to create our final dish. 
